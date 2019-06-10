@@ -3,6 +3,8 @@ Data retrieval and visualization
 
 ## Sites for Inspiration, etc.
 
+https://healthanalyticsguru.com/2018/10/21/a-health-data-whisperers-tricks/
+
 http://publichealthintelligence.org/content/resources/data-and-visualization-sites
 
 http://www.healthcarebusinesstech.com/healthcare-data-visualization/
