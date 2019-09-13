@@ -1,7 +1,26 @@
 # Healthcare Insights
 Data retrieval and visualization
 
+## Some Ideas
+- Leading cause of death in each state? But that's a list, not a visualization ...
+
 ## Sites for Inspiration, etc.
+
+- Division of Viatal Statistics
+- Bureau of Vital Statistics
+
+nchstats.com
+
+www.FLhealthcharts.com
+FLpublicHealth.com
+www.dms.myFlorida.com
+www.cdc.gov/nchs/pressroom/states/florida/florida.htm
+
+wonder.cdc.gov
+
+myFLfamilies.com
+
+www.dcf.state.fl.us
 
 https://healthanalyticsguru.com/2018/10/21/a-health-data-whisperers-tricks/
 
